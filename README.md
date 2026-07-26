@@ -12,7 +12,7 @@
   
 <div align="center">
 <details>
-  <summary> ℑ𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫!</summary>
+  <summary> ℑ𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫 𝔱𝔬 𝔫𝔬𝔱𝔢… </summary>
   
   $\color{red}{\text{𝖨𝖿 𝗍𝗁𝗂𝗌 𝗀𝗂𝗍𝗁𝗎𝖻 𝗂𝗌 𝗈𝗇 𝗈𝗇𝖾 𝗈𝖿 𝗆𝗒}}$
   $\color{red}{\text{𝗉𝗈𝗇𝗂𝖾𝗌 𝗆𝗒 𝗉𝗎𝖻𝗅𝗂𝖼 𝖼𝗁𝖺𝗍 𝗂𝗌 𝗈𝖿𝖿}}$
