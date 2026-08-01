@@ -12,12 +12,15 @@
   
 <div align="center">
 <details>
-  <summary> $\color{#8f8282}{\text{ℑ𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫 𝔱𝔬 𝔫𝔬𝔱𝔢…}}$ </summary>
+  <summary> $\color{#960000}{\text{ℑ𝔫𝔣𝔬𝔯𝔪𝔞𝔱𝔦𝔬𝔫 𝔱𝔬 𝔫𝔬𝔱𝔢…}}$ </summary>
   
-  $\color{#960000}{\text{𝖨𝖿 𝗍𝗁𝗂𝗌 𝗀𝗂𝗍𝗁𝗎𝖻 𝗂𝗌 𝗈𝗇 𝗈𝗇𝖾 𝗈𝖿 𝗆𝗒}}$
-  $\color{#960000}{\text{𝗉𝗈𝗇𝗂𝖾𝗌 𝗆𝗒 𝗉𝗎𝖻𝗅𝗂𝖼 𝖼𝗁𝖺𝗍 𝗂𝗌 𝗈𝖿𝖿,}}$
-  $\color{#960000}{\text{𝗆𝖾𝖺𝗇𝗂𝗇𝗀 𝗂'𝗆 𝗇𝗈𝗇𝗏𝖾𝗋𝖻𝖺𝗅 𝖺𝗇𝖽/𝗈𝗋 in a crappy mood}}$
-  $\color{#960000}{\text{𝖻𝗎𝗍 𝗒𝗈𝗎 𝖼𝖺𝗇 𝗌𝗍𝗂𝗅𝗅 𝖢+𝖧 𝚘𝚛 𝚠𝚑𝚒𝚜𝚙𝚎𝚛!}}$
+  $\color{#960000}{\text{-}}$
+  
+  $\color{#ff3b3b}{\text{𝙸 𝙻𝙾𝚅𝙴 𝙰𝚂𝚃𝙴𝚁𝙸𝙰!}}$
+
+  $\color{#ff3b3b}{\text{𝙾𝚃𝙷𝙴𝚁 𝙰𝙻𝚃: @OneofakindAnarchist}}$
+
+  $\color{#960000}{\text{-}}$
 
 </details>
 </div>
